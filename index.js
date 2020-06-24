@@ -319,5 +319,7 @@ function inject (bot) {
 module.exports = {
   pathfinder: inject,
   Movements: require('./lib/movements'),
-  goals: require('./lib/goals')
+  goals: require('./lib/goals'),
+  Path: require('./lib/path'),
+  waypoints: require('./lib/waypoints'),
 }
