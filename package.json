@@ -11,6 +11,7 @@
   "author": "Karang",
   "license": "MIT",
   "dependencies": {
+    "heap": "^0.2.6",
     "minecraft-data": "^2.54.0",
     "mineflayer": "^2.19.0"
   },
